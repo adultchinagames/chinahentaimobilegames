@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://adultchinagames.github.io</id>
+    <title>Adult Chinese Mobile Games</title>
+    <updated>2022-02-12T04:06:08.211Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://adultchinagames.github.io"/>
+    <link rel="self" href="https://adultchinagames.github.io/atom.xml"/>
+    <subtitle>Research into Chinese hentai mobile games</subtitle>
+    <logo>https://adultchinagames.github.io/images/avatar.png</logo>
+    <icon>https://adultchinagames.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Adult Chinese Mobile Games</rights>
+</feed>
